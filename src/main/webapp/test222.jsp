@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	저는 추가된 파일입니다.
 </body>
 </html>
